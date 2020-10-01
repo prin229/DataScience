@@ -3,4 +3,4 @@ implementations of basics of preprocessing ,data cleaning,data transformations u
 
 algorithm implementations using sklearn library on datasets
 
-data analysis using matplotlib,seaborn libraries
+data analysis using matplotlib,seaborn and scipy libraries
